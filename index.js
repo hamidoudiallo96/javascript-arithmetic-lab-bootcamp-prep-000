@@ -3,15 +3,14 @@ const add = (a,b) =>{
 }
 
 const subtract = (a,b) =>{
-  let result = b-(a)
-  return result
+  return b-a
 }
 
 const multiply = (a,b) =>{
   return a*b
 }
 
-const divde = (a,b) =>{
+const divide = (a,b) =>{
   return a/b
 }
 
