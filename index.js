@@ -3,7 +3,7 @@ const add = (a,b) =>{
 }
 
 const subtract = (a,b) =>{
-  let result = b-a
+  let result = b-(a)
   return result
 }
 
@@ -11,7 +11,7 @@ const multiply = (a,b) =>{
   return a*b
 }
 
-const divdes = (a,b) =>{
+const divde = (a,b) =>{
   return a/b
 }
 
